@@ -13,6 +13,8 @@
 - **Frontend**: Developed using **Qt Designer** for a modern and responsive user interface.
 - **Backend**: Implemented in **C++** for efficient performance and robust logic handling.
 - **Database**: Data is managed using **SQL**, ensuring reliable and secure data storage.
+- **Scripting & Automation**: Utilized Python for automation tasks such as sending mail verifications and resetting passwords.
+- **Hardware Integration**: Integrated an Arduino with an RFID system to automate user logins, enhancing system functionality and security.
 
 ## Installation
 
