@@ -19,4 +19,19 @@
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/pharmease.git
-   cd pharmease
+2. **Create Database in your Pc**:   
+   check connection.cpp and create a database
+   open sql developers and do the following:
+   -create tables here's screenshots
+   ![Chatbot Table](imgs/chatbot.png)
+   ![Employee Table](imgs/Employee.png)
+   ![Ordonnance Table](imgs/ordonnance.png)
+   ![Product Table](imgs/product.png)
+   ![Sales Table](imgs/sales.png)
+   ![Supplier Table](imgs/supplier.png)
+
+   
+3. **Run The Application**:  
+   open .pro file and run
+   enjoy.   
+   
