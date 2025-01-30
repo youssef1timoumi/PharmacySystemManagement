@@ -20,7 +20,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/pharmease.git
+   git clone https://github.com/youssef1timoumi/PharmacySystemManagement.git
 2. **Create Database in your Pc**:   
    check connection.cpp and create a database
    open sql developers and do the following:
@@ -35,5 +35,9 @@
    
 3. **Run The Application**:  
    open .pro file and run
-   enjoy.   
+   enjoy. 
+**Screenshots**
+  ![Login](imgs/login.png)
+  ![Employee Dashboard](imgs/employeedashboard.png)
+  ![Forget Passowrd](imgs/forgetpassword.png)
    
