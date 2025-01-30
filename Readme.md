@@ -35,9 +35,10 @@
    
 3. **Run The Application**:  
    open .pro file and run
-   enjoy. 
-**Screenshots**
-  ![Login](imgs/login.png)
-  ![Employee Dashboard](imgs/employeedashboard.png)
-  ![Forget Passowrd](imgs/forgetpassword.png)
+   enjoy.
+   
+## Screenshots
+  **Login**![Login](imgs/login.png)
+  **Employee Dashboard**![Employee Dashboard](imgs/employeedashboard.png)
+  **Forget Password**![Forget Passowrd](imgs/forgetpassword.png)
    
